@@ -1,2 +1,2 @@
-# checkpoint-gabu
-prova utilizando .sh
+# Hello Script
+Este é um script simples que imprime 'hello'.
